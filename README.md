@@ -1,3 +1,11 @@
+### Todo App
+* ### This App is used for adding some data in our app and update the data and delete the data.
+* ### I'm also using local storage for storing the data so you can easily find your data when you are not deleted.
+* ### I have hosted my app the link of my App is given below:
+  * https://gracious-shockley-13fbb2.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
